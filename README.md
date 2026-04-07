@@ -5,6 +5,18 @@
 ### Video Models Prior Enable Versatile Sequential Sketch Generation
 
 <p align="left">
+  <a href="https://rhfeiyang.github.io/">Hui Ren</a><sup>1</sup>,
+  <a href="https://yuval-alaluf.github.io/">Yuval Alaluf</a><sup>2</sup>,
+  <a href="https://omerbt.github.io/">Omer Bar Tal</a><sup>2</sup>,
+  <a href="https://www.alexander-schwing.de/">Alexander Schwing</a><sup>1</sup>,
+  <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a><sup>3</sup>,
+  <a href="https://yael-vinker.github.io/website/">Yael Vinker</a><sup>3</sup>
+</p>
+<p align="left">
+  <sup>1</sup>UIUC, <sup>2</sup>Runway, <sup>3</sup>MIT
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg" alt="PyTorch">
   <img src="https://img.shields.io/badge/Diffusers-🤗-yellow.svg" alt="Diffusers">
@@ -12,6 +24,7 @@
 </p>
 
 <p align="left">
+  <a href="https://arxiv.org/abs/2602.15819">📄 Paper</a> •
   <a href="https://videosketcher.github.io/">🌐 Project Page</a> •
   <a href="#-key-features">Features</a> •
   <a href="#-getting-started">Getting Started</a> •
@@ -395,16 +408,19 @@ This project is built upon the following outstanding open-source works. We since
 | [**DiffSynth-Studio**](https://github.com/modelscope/DiffSynth-Studio) | Comprehensive diffusion model toolkit providing essential utilities and references |
 
 ---
-<!-- 
 ## 📜 Citation
 
 ```bibtex
-@article{videosketcher2026,
-  title={VideoSketcher: Leveraging Video Model Priors for Versatile Sequential Sketch Generation},
-  author={Anonymous},
-  year={2026}
+@misc{ren2026videosketcher,
+      title={VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation}, 
+      author={Hui Ren and Yuval Alaluf and Omer Bar Tal and Alexander Schwing and Antonio Torralba and Yael Vinker},
+      year={2026},
+      eprint={2602.15819},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.15819}, 
 }
-``` -->
+```
 
 ---
 
